@@ -1,7 +1,7 @@
 package log
 
 import (
-	log "code.google.com/p/log4go"
+	log "github.com/keepeye/log4go" //Edit for migrated link
 	"fmt"
 )
 
